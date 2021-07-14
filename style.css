@@ -1,0 +1,118 @@
+html {
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding-top: 800px;
+}
+
+#dumbadumbadumdummmmm {
+    width: 200px;
+    height: 300px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    z-index: 5;
+}
+
+#bubumbumbuuuu {
+    position: absolute;
+    overflow: hidden;
+    color: black;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 1;
+    display: table;
+    width: 100%;
+    background: linear-gradient(-45deg, #00eeff, #008cff, #003cff, #4800ff, #9500ff);
+}
+
+.parallax-inner {
+    display: table-cell;
+    vertical-align: middle;
+    position: relative;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    color: black;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: 250;
+    line-height: 1.5;
+}
+
+#padapadadadpapapumpum {
+    padding: 50px;
+    font-size: 40px;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: aqua;
+    margin: 10px auto;
+}
+
+p {
+    max-width: 500px;
+    margin: 25px auto;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+#bababababapumpumdamdamdumdum {
+    color: black;
+}
+
+.menue {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 10px;
+    right: 50px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.link {
+    float: left;
+    color: lightgrey;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    font-family: 'Zen Tokyo Zoo';
+    font-size: 30px;
+    line-height: 1.2;
+}
+
+.link:hover {
+    background-color: darkblue;
+}
+
+#badapumpumname {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Otomanopee One';
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: darkblue;
+}
+.article {
+    font-size: 40px;
+}
